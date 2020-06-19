@@ -1,13 +1,34 @@
-div {
+body {
+    background-color: rgb(231, 223, 223);
+}
+
+main {
     padding: 14px 16px;
-    border-radius: 20px;
-    background-color: #ddd;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+a {
+    
+}
+
+footer {
+    padding: 14px 16px;
+    background-color: #333;
+    color: #f2f2f2;
+    margin: 20px;
+    text-align: center;
+    border-radius: 10px;
 }
 
 /* Add a black background color to the top navigation */
 .navigation {
     background-color: #333;
     overflow: hidden;
+    margin: 20px;
+    border-radius: 10px;
 }
   
   /* Style the links inside the navigation bar */
